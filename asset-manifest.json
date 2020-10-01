@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59fa19dd.chunk.css",
+    "main.js": "/static/js/main.9c06113c.chunk.js",
+    "main.js.map": "/static/js/main.9c06113c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f2a5257.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f2a5257.js.map",
+    "static/js/2.71ed9bf8.chunk.js": "/static/js/2.71ed9bf8.chunk.js",
+    "static/js/2.71ed9bf8.chunk.js.map": "/static/js/2.71ed9bf8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c5def463ec7a3edeae4ba3d75a9af97.js": "/precache-manifest.6c5def463ec7a3edeae4ba3d75a9af97.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.59fa19dd.chunk.css.map": "/static/css/main.59fa19dd.chunk.css.map",
+    "static/js/2.71ed9bf8.chunk.js.LICENSE.txt": "/static/js/2.71ed9bf8.chunk.js.LICENSE.txt",
+    "static/media/aboutimg-2.jpg": "/static/media/aboutimg-2.bbbe4899.jpg",
+    "static/media/venuesection.css": "/static/media/event_section-coundown.b37db4c4.jpg",
+    "static/media/footer.css": "/static/media/footer-bg.6fd6c817.png",
+    "static/media/homebanner.css": "/static/media/meeting.ab2f4aa3.jpg",
+    "static/media/p1.png": "/static/media/p1.79aece9b.png",
+    "static/media/p2.png": "/static/media/p2.8ccb7904.png",
+    "static/media/p3.png": "/static/media/p3.5003204a.png",
+    "static/media/p4.png": "/static/media/p4.b984b3f3.png",
+    "static/media/p5.png": "/static/media/p5.ffb7b4d7.png",
+    "static/media/p6.png": "/static/media/p6.6d5d54b9.png",
+    "static/media/purchaseNow.css": "/static/media/purches.22867326.jpg",
+    "static/media/clientSection.css": "/static/media/reviewbgf.fb514b87.jpg",
+    "static/media/s1.png": "/static/media/s1.5a151ca0.png",
+    "static/media/s2.png": "/static/media/s2.2101c316.png",
+    "static/media/sk1.jpg": "/static/media/sk1.60446a6c.jpg",
+    "static/media/upevent1.jpg": "/static/media/upevent1.7d4cdb4c.jpg",
+    "static/media/upevent2.jpg": "/static/media/upevent2.3a009e66.jpg",
+    "static/media/upevent3.jpg": "/static/media/upevent3.e0b1cb9c.jpg",
+    "static/media/upevent4.jpg": "/static/media/upevent4.6829382f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2a5257.js",
+    "static/js/2.71ed9bf8.chunk.js",
+    "static/css/main.59fa19dd.chunk.css",
+    "static/js/main.9c06113c.chunk.js"
+  ]
+}
